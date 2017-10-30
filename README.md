@@ -2,4 +2,4 @@
 hello，my Github，the first
 
 
-chenwei，master degree，HFUT，i'm coming！！！
+chenwei，i'm coming！！！
